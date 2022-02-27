@@ -1,1 +1,13 @@
+lenh cau hinh tai khoan tren may tinh: git config --global user.mail 'abc@mail.com' → lenh set up 1 lan tren 1 may tinh
+lenh khoi tao local git: git init
+lenh ket 
+
+
+
 git add -A|ten file|ten folder : lenh chon cac file se backup lai
+git status: len xem cac file nao da chon de backup
+git commit -m 'ghi chu': tao ra 1 version backup o local git
+git push: tren server da co nhanh do
+ git push -u origin 'ten nhanh': tren server chua co nhanh do
+ ※ git push la lenh dua cac version commit tu local len server (github.com)
+git clone 'duong dan': lenh clone toan bo source code cua du an ve may
