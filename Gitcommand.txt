@@ -1,0 +1,1 @@
+git add -A|ten file|ten folder : lenh chon cac file se backup lai
