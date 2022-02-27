@@ -14,5 +14,6 @@ git push: tren server da co nhanh do
 git clone 'duong dan': lenh clone toan bo source code cua du an ve may
 ---
 cac cau lenh nang cao
-git checkout -b: lenh tao nhanh o local
+git checkout -b: lenh tao nhanh o local, 
+  nho commit truoc khi thuc hien lenh checkout de tranh tinh trang mat code
 git branch: lenh xem minh dang o branch nao
