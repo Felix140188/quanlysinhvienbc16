@@ -1,9 +1,10 @@
 lenh cau hinh tai khoan tren may tinh: git config --global user.mail 'abc@mail.com' → lenh set up 1 lan tren 1 may tinh
 lenh khoi tao local git: git init
-lenh ket 
+lenh ket noi tu repo local ⇒ server: git remote add origin https://github.com/Felix140188/quanlysinhvienbc16.git
 
 
 
+git pull: cap nhat cac commit moi nhat tu server
 git add -A|ten file|ten folder : lenh chon cac file se backup lai
 git status: len xem cac file nao da chon de backup
 git commit -m 'ghi chu': tao ra 1 version backup o local git
