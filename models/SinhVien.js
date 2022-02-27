@@ -14,6 +14,9 @@ function SinhVien() {
       Number(this.diemHoa) + Number(this.diemLy) + Number(this.diemToan);
     return dtb;
   };
+  this.xepLoaiSinhVien = function (){
+      console.log('Xep Loai')
+  }
   this.hienThiThongTin = function () {
     console.log("hien thi thong tin");
   };
